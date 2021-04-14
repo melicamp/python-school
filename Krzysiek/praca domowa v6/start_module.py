@@ -2,6 +2,7 @@ import menu_module
 
 
 def start_program():
+    print (' testowy literał do pull requesta')
     print('Podaj imię')
     user_name = input("")
 
