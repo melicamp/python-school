@@ -3,6 +3,9 @@
 #GLOBAL
 
 #Czy na pewno wszystkie te zmienne muszą być zmiennymi globalnymi? Nie wykorzystujesz niektórych tylko w funkcjach?
+
+#Nowy komentarz
+
 hello_literal = ('Cześć')
 welcome_literal =('To jest program,')
 menu_present1 = ("COMBO trzy w jednym")
